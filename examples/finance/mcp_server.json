@@ -1,0 +1,7 @@
+{
+    "mcpServers": {
+        "Financial Database": {
+            "url": "http://mcp-server:9001"
+        }
+    }
+}
